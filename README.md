@@ -2,7 +2,7 @@
 Esta repo contiene las practicas organizadas en carpetas
 ## Prácticas
 
-1. [Práctica 1](Figuras_noConstructor/practica_1)
+1. [Práctica 1](Figuras_noConstructor/)
 2. [Práctica 2](ruta/practica_2)
 3. [Práctica 3](ruta/practica_3)
 4. [Práctica 4](ruta/practica_4)
