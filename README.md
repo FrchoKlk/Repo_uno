@@ -1,4 +1,5 @@
 # Indice de practicas
+Fermin Martinez Velazquez
 Esta repo contiene las practicas organizadas en carpetas
 ## Prácticas
 
