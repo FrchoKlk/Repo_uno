@@ -1,6 +1,6 @@
 # Indice de practicas
 Fermin Martinez Velazquez
-Esta repo contiene las practicas organizadas en carpetas
+-Esta repo contiene las practicas organizadas en carpetas-
 ## Prácticas
 
 1. [Práctica 1](Figuras_noConstructor/)
